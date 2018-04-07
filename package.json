@@ -1,0 +1,22 @@
+{
+  "name": "harendrabisht.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "service-worker.js",
+  "scripts": {    
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harendrabisht/harendrabisht.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harendrabisht/harendrabisht.github.io/issues"
+  },
+  "homepage": "https://github.com/harendrabisht/harendrabisht.github.io#readme",
+  "dependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
